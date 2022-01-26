@@ -19,7 +19,7 @@ blockquote {
 }
 
 .art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp {
-  background: #FFC107;
+  background: green;
 }
 
 .art-info-bar .art-name:hover a {
