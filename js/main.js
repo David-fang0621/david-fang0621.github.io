@@ -35,7 +35,7 @@ $(function () {
   // page loading
   $(document).ready(function () {
     document.getElementById("copyright").innerHTML =
-      "© " + new Date().getFullYear() + " XianZhu Li";
+      "© " + new Date().getFullYear() + " Huateng Fang";
     anime({
       targets: ".art-preloader .art-preloader-content",
       opacity: [0, 1],
